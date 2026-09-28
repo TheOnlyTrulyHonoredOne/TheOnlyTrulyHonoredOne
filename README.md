@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+I'm Howard, a computer science student based in Ohio.
+I design and build whatever interests me.
+
+My main tech stack is Java, C++, Python, and Unity/C#.
+
+I'm working on lots of projects right now but so far my favorite is [TheHonoredMathLibrary](https://github.com/TheOnlyTrulyHonoredOne/TheHonoredMathLibrary).
+
+## Fun facts:
+- I love building things
+- Pokémon FireRed is my favorite game
+- I love art and making music
+
+
 <!--
 **TheOnlyTrulyHonoredOne/TheOnlyTrulyHonoredOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
