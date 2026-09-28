@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Howard, a computer science student based in Ohio.
+I'm [Howard](https://www.linkedin.com/in/howard-nock-6b0090246/), a computer science student based in Ohio.
 I design and build whatever interests me.
 
 My main tech stack is Java, C++, Python, and Unity/C#.
