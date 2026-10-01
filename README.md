@@ -10,7 +10,7 @@ I'm working on lots of projects right now but so far my favorite is [TheHonoredM
 ## Fun facts:
 - I love building things
 - Pokémon FireRed is my favorite game
-- I love art and making music
+- I like art and making music
 
 
 <!--
